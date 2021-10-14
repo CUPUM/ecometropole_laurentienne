@@ -1,5 +1,14 @@
 # Information générale
 
+## Système d’organisation du repository
+...
+
+
+## Système de nomenclature des fichiers
+...
+
+
+
 ## Cours
 
 ### Titre
