@@ -1,1 +1,0 @@
-Dépot des visions allégoriques
