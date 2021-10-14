@@ -7,6 +7,9 @@
 ## Système de nomenclature des fichiers
 ...
 
+nom_de_famille-type_de_document-nom_du_document-aaaammjj
+
+    Ex: koseki-image-bonne_gouvernance-20210901.jpg 
 
 
 ## Cours
