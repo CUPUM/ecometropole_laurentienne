@@ -12,7 +12,7 @@ Les documents suivants représentent le site développé par chaque équipe du g
 
 ## Site industriel Mercier-Est
 
-![Site industriel Mercier-Est)[https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_sites/dorais_tremblay-image-vision_site-20211105.jpg]
+![Site industriel Mercier-Est](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_sites/dorais_tremblay-image-vision_site-20211105.jpg)
 
 
 ## Sept-Iles
