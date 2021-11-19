@@ -2,7 +2,7 @@
 
 ## Akik & Lévesque
 
-### Paysage naturel
+### Paysage naturel
 
 ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/langages_paysagers/akik_levesque-image-paysage_naturel-2021101.jpg)
 
@@ -60,9 +60,9 @@
 ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/langages_paysagers/denys_gauthier_marchand-image-paysage_urbain-20211028.jpg)
 
 
-# Dorais & Tremblay P.
+# Dorais & Tremblay P
 
-### Paysage naturel
+### Paysage naturel
 
 ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/langages_paysagers/dorais_tremblay-image-paysage_naturel-20211031.jpg)
 
