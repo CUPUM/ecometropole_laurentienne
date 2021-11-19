@@ -4,7 +4,7 @@
 
 Bonne gouvernance            |  Mauvaise gouvernance
 :-------------------------:|:-------------------------:
-![test](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/akik-image-bonne_gouvernance-20211103.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/akik-image-mauvaise_gouvernance-20211103.jpg)
+![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/akik-image-bonne_gouvernance-20211103.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/akik-image-mauvaise_gouvernance-20211103.jpg)
 
 ## Dorais
 
