@@ -20,16 +20,32 @@ La plus importante d'entre eux = Rio Tinto
  - Contamination des sols
 Péréniser les installations de Rio Tinto et adresser la problématique d'accessibilté liée à celles-ci
 Développement d'une statégie de design pour adapter le site à la montée des eaux, le rendre plus accessible et empêcher un déversement des polluants du site dans le fleuve. 
-Cette statégie vise 
+Schéma conceptuel?
 Stratégie en 3 phases, qui suivent la montée des eaux à 1 degré, 2 degrés et 4 degrés
-Phase 1 degré
+
+Phase 1 degré (préparation accessibilité + 1iere phase de végétalisation)
   - Contrôle de l'érosion  par l'implantation de dunes de végétation
   - Matérialité de la dune (sable,sols contaminés)
   - Profiter de l'expertise locale (Rio Tinto) pour réaliser les travaux
   - Composition de la dune ( végétation )
 
-Phase 2 
+Phase 2 (Phase d'accessibilité + 2e phase de végétalisation)
 
-  - Création d'un bassin de rétention avec l'implantation d'une deuxième dune
-  - 
+  - Création d'un bassin de rétention avec l'implantation d'une deuxième dune continue. 
+  - Début de la statégie d'accessibilité. 
+  - Implantation de la structure de passerelle permanente.
+  - Implantation de la structure de passerelle amovible sur les dunes. 
+
+Phase 3 (Phase de bonification)
+
+  - Aggrandissement de la deuxième bute
+  - Déplacement de la structure amovible sur la dune aggrandie
+
+Plan d'ensemble, qui inclue toutes les phases
+
+Retour sur le processus de la stratégie
+Retour sur les risques présentés en introduction
+Montrer que le processus utilisé est utilisable ailleurs
+   - Avec le reste de Sept-îles
+   - Avec d'autres villes
 
