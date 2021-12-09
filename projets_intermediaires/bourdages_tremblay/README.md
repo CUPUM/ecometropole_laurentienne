@@ -49,3 +49,21 @@ Montrer que le processus utilisé est utilisable ailleurs
    - Avec le reste de Sept-îles
    - Avec d'autres villes
 
+VISUELS À PRODUIRE
+Cartes 
+-	Carte organisation spatiale
+-	Cartes inondations (échelles du QC, exemples de villes indus, sept-iles)
+-	Carte du site Rio Tinto
+-	Carte topographique
+-	Carte terrains contaminés
+Plan 
+-	Plan d’ensemble
+Rendu 
+-	Phase 1 
+-	Phase 2
+-	Phase 3
+Maquette
+-	Une belle maquette de platre
+
+
+
