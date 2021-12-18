@@ -41,5 +41,11 @@ Bonne gouvernance            |  Mauvaise gouvernance
 
 Bonne gouvernance            |  Mauvaise gouvernance
 :-------------------------:|:-------------------------:
-![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_p-image-bonne_gouvernance-09092021.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_p-image-mauvaise_gouvernance-09092021.jpg)
+![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_p-image-bonne_gouvernance-20210909.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_p-image-mauvaise_gouvernance-20210909.jpg)
+
+## Tremblay, S.
+
+Bonne gouvernance            |  Mauvaise gouvernance
+:-------------------------:|:-------------------------:
+![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_s-image-bonne_gouvernance-20210909.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_s-image-mauvaise_gouvernance-20210909.jpg)
 
