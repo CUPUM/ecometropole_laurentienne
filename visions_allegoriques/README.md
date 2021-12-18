@@ -48,4 +48,3 @@ Bonne gouvernance            |  Mauvaise gouvernance
 Bonne gouvernance            |  Mauvaise gouvernance
 :-------------------------:|:-------------------------:
 ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_s-image-bonne_gouvernance-20210909.jpg)  |  ![](https://github.com/CUPUM/ecometropole_laurentienne/blob/main/visions_allegoriques/tremblay_s-image-mauvaise_gouvernance-20210909.jpg)
-
