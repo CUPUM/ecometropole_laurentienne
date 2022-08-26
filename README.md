@@ -1,4 +1,4 @@
-# Readme 2022 in progress
+# Readme 2022
 
 
 # GitHub 
