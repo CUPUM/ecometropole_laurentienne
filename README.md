@@ -1,8 +1,7 @@
 # Readme 2022 in progress
 
 
-# Information générale
-
+# GitHub 
 ## Système d’organisation du repository
 ...
 
@@ -15,36 +14,32 @@ nom_de_famille-type_de_document-nom_du_document-aaaammjj
     Ex: koseki-image-bonne_gouvernance-20210901.jpg 
 
 
-## Cours
+# Syllabus Écométropole Laurentienne
 
-### Titre
-Atelier de design urbain 2 (6 crédits)
 
-### Sigle
-AME6415
+## Informations générales
 
-### Site StudiUM
-https://studium.umontreal.ca/
-
-### Faculté
-Aménagement
-
-### Trimestre
-Automne
-
-### Année
-2021
+Cours : Atelier de design urbain 2 (6 crédits)
+Sigle : AME6415
+Site StudiUM : https://studium.umontreal.ca/
+Faculté : Aménagement
+Trimestre : Automne
+Année : 2022
 
 ### Mode d’enseignement
-Lors de son lancement, le 2 septembre 2021, l’Université prévoit un enseignement en atelier pour toutes les séances du semestre. Advenant que la modalité d’enseignement change pour devenir hybride ou multimodale, vous trouverez dans le calendrier plus bas les séances de l’atelier qui auront lieu en à distance (marquées d’un asterisk). Pour plus d’information concernant les modes d’enseignement en cours vous pouvez consulter le site de l’Université : https://registraire.umontreal.ca/etudes-et-services/horaire-des-cours/modes-denseignement/
+Lors de son lancement, le jeudi 8 septembre 2022, l’Université prévoit un enseignement en atelier pour toutes les séances du semestre. Pour plus d’information concernant les modes d’enseignement en cours vous pouvez consulter le site de l’Université : https://registraire.umontreal.ca/etudes-et-services/horaire-des-cours/modes-denseignement/ 
+
+### Déroulement de l’atelier
+Lors de son lancement, le jeudi 8 septembre 
 
 ### Déroulement du cours
-* Atelier : Lundi et jeudi de 13 h à 17 h 29, local 3059 (Aménagement)
-* Cycle de conférences complémentaire : jeudi midi
+* Atelier : Lundi et jeudi de 13 h à 17 h, local à confirmer (Aménagement)
+* Deux conférences lors du trimestre
+* Voyage exploratoire de recherche par le design à Terre-Neuve, du 22 au 30 octobre 2022
 
 ### Charge de travail hebdomadaire
-* Présence à l’atelier obligatoire : neuf heures par semaine (sauf congés)
-* Travail en dehors des heures d’atelier : neuf heures par semaine
+* Présence à l’atelier obligatoire : 9 heures par semaine (sauf congés)
+* Travail en dehors des heures d’atelier : 9 heures par semaine
 
 \newpage
 
