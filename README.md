@@ -145,40 +145,8 @@ En parallèle aux activités principales de la phase 1, 2 et 3, trois heures des
 
 L’objectif de cette phase continue d’explorations plastiques est de vous permettre de tester de nouvelles approches de design et de représentation de manière plus libre et expressive. 
 
-
-| Semaine | Date       | Jour   | Phase        | Activités                                                         |
-|:-------:|------------|--------|--------------|-------------------------------------------------------------------|
-|  1      | 2 sept.    | jeudi  | Visions      | Introduction de l’atelier, introduction de la phase 1             |
-|  2      | 6 sept.    | lundi  | Visions      | *Congé de la fête du travail*                                     |
-|  2      | 9 sept.    | jeudi* | Visions      | **Présentation des visions, lancement phase 2**                   |
-|  3      | 13 sept.   | lundi  | Analyses     | Recherche documentaire                                            |
-|  3      | 16 sept.   | jeudi* | Analyses     | Étude cartographique                                              |
-|  4      | 20 sept.   | lundi  | Analyses     | Cartographie des controverses                                     |
-|  4      | 23 sept.   | jeudi* | Analyses     | Diagrammes                                                        |
-|  5      | 27 sept.   | lundi  | Analyses     | Schémas d’analyse                                                 |
-|  5      | 30 sept.   | jeudi* | Analyses     | Préparation du pitch de présentation                              |
-|  6      | 4 oct.     | lundi  | Analyses     | **Présentation des analyses, lancement phase 3**                  |
-|  6      | 7 oct.     | jeudi* | Strategies   | Schématisation des objectifs                                      |
-|  7      | 11 oct.    | lundi  | Strategies   | *Congé de l’action de grâce*                                      |
-|  7      | 14 oct.    | jeudi* | Strategies   | Schématisation des stratégies                                     |
-|  8      | 18–22 oct. | —      | Strategies   | *Étude des aspirations citoyennes*                                |
-|  9      | 25 oct.    | lundi  | Strategies   | **Présentation des stratégies, lancement phase 4**                |
-|  9      | 28 oct.    | jeudi* | Conception   | Identification du langage paysager                                |
-|  10     | 1 nov.     | lundi  | Conception   | Visions allégoriques                                              |
-|  10     | 4 nov.     | jeudi* | Conception   | Maquettes exploratoires                                           |
-|  11     | 8 nov.     | lundi  | Conception   | Perspectives schématiques                                         |
-|  11     | 10 nov.    | jeudi* | Conception   | Perspectives                                                      |
-|  12     | 15 nov     | lundi  | Conception   | Coupes *(+ appréciation de la prestation à 13h)*                  |
-|  12     | 18 nov.    | jeudi* | Conception   | Coupes                                                            |
-|  13     | 22 nov.    | lundi  | Conception   | Plans                                                             |
-|  13     | 25 nov.    | jeudi* | Conception   | Plans                                                             |
-|  14     | 29 nov.    | lundi  | Conception   | **Présentation du projet, lancement phase 5**                     |
-|  14     | 2 dec.     | jeudi* | Valorisation | Narratifs                                                         |
-|  15     | 6 dec.     | lundi  | Valorisation | Planches                                                          |
-|  15     | 9 dec.     | jeudi* | Valorisation | Planches                                                          |
-|  16     | 13 dec.    | lundi  | Valorisation | Presentations                                                     |
-|  16     | 16 dec.    | jeudi* | Valorisation | Presentations                                                     |
-|  17     | 20 dec.    | lundi  | Valorisation | **Jury**                                                          |
+## Ligne du temps
+![TIMELINE_AME6415.png](..\..\..\Desktop\TIMELINE_AME6415.png)
  
 ## Cycle de conférences
 
