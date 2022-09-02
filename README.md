@@ -146,7 +146,7 @@ En parallèle aux activités principales de la phase 1, 2 et 3, trois heures des
 L’objectif de cette phase continue d’explorations plastiques est de vous permettre de tester de nouvelles approches de design et de représentation de manière plus libre et expressive. 
 
 ## Ligne du temps
-![TIMELINE_AME6415.png](..\..\..\Desktop\TIMELINE_AME6415.png)
+![TIMELINE_AME6415.png](./TIMELINE_AME6415.png)
  
 ## Cycle de conférences
 
