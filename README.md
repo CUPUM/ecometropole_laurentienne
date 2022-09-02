@@ -1,13 +1,25 @@
 # Readme 2022
-
-
 # GitHub 
-## Système d’organisation du repository
-...
+L’un des objectifs fondamentaux de cet atelier est d’expérimenter, tant pour ce qui est des thématiques de recherche, des stratégies d'apprentissages, des projets imaginés ou encore des outils pédagogiques utilisés. De plus, à l'image des projets pilotés par la Chaire, nous avons la volonté de supporter un certain type d'initiatives : collective, transparente et démocratique.
 
+GitHub incarne ces désirs d'expérimentations et d'ouverture. Nous vous invitons à tester avec nous les potentiels de cet outil pour un atelier de design et recherche. Cette plateforme permet non seulement d’échanger et organiser notre travail, mais également de rassembler et construire des connaissances collectivement.
+
+GitHub sera utilisé tout au long de l’atelier afin de structurer le travail à accomplir, déposer les livrables et rassembler différents savoirs et apprentissages.
+
+Une séance de formation est prévue en début de session afin de vous familiariser avec la plateforme.
+
+**Important**
+* Télécharger [GitHub Desktop](https://desktop.github.com/) pour faciliter l'utilisation.
+* Télécharger [ZETTLR](https://www.zettlr.com/) pour vous permettre d'écrire et mettre en page vos textes plus facilement.
+
+## Système d’organisation du repository
+Simplement, chacune des phases de l'atelier possède un fichier (_file_) dans lequel certains documents ou données pertinentes y sont déposés pour vous accompagner dans votre travail.
+
+De plus, comme il s'agit d'un travail collectif, nous allons discuter entre nous les façons d'y ajouter le résultat de vos explorations ou recherches documentaires.
+
+Finalement, chaque fichier possède également un sous-fichier pour y déposer les livrables de l'atelier.
 
 ## Système de nomenclature des fichiers
-...
 
 nom_de_famille-type_de_document-nom_du_document-aaaammjj
 
@@ -40,13 +52,6 @@ Lors de son lancement, le jeudi 8 septembre
 ### Charge de travail hebdomadaire
 * Présence à l’atelier obligatoire : 9 heures par semaine (sauf congés)
 * Travail en dehors des heures d’atelier : 9 heures par semaine
-
-### Organisation, archivage et partage de fichiers
-Dans l’optique de faciliter les communications entre institutions, chercheurs, enseignants et étudiants, la Chaire UNESCO en paysage urbain utilise le site GitHub. Cette plateforme permet non seulement d’échanger et organiser notre travail, mais également de rassembler et construire des connaissances collectivement.
-
-GitHub sera utilisé tout au long de l’atelier afin de structurer le travail à accomplir, déposer les livrables et rassembler différents savoirs et apprentissages.
-
-Une séance de formation est prévue en début de session afin de vous familiariser avec la plateforme. 
 
 ### Personnel enseignant
 [Shin Koseki](https://shinkoseki.com/), Dr Sc, Dipl Arch EPF | shin.koseki@umontreal.ca
@@ -145,15 +150,28 @@ En parallèle aux activités principales de la phase 1, 2 et 3, trois heures des
 
 L’objectif de cette phase continue d’explorations plastiques est de vous permettre de tester de nouvelles approches de design et de représentation de manière plus libre et expressive. 
 
-## Ligne du temps
+# Ligne du temps
 ![TIMELINE_AME6415.png](./TIMELINE_AME6415.png)
  
+# Activités complémentaires
+## Voyage exploratoire à Terre-Neuve (22 au 30 octobre 2022)
+En collaboration avec différents acteurs, comme l’artiste et chercheur David Maggs originaire de Corner Brook, la Chaire UNESCO en paysage urbain invite les étudiants de deuxième cycle de la Faculté de l’aménagement de l’Université de Montréal à participer à un voyage de recherche d’une semaine dans la région du parc national du Gros-Morne, à Terre-Neuve. Plutôt que de fonctionner comme un atelier de design classique, soit une course effrénée vers la production d’un projet d’intervention, l’objectif ici est d’investir les potentiels d’un atlas territorial et de produire un document collectif. Comme certains auteurs avancent, la crise climatique est non seulement une crise écologique, économique et technologique, mais également une crise culturelle. La complexité ainsi que l’immensité des causes et impacts du réchauffement planétaire nous obligent à repenser nos modes de représentations. Il devient impératif de rendre compréhensibles les transformations climatiques en cours et leurs incidences sur nos modes d’habiter. Le voyage à Terre-Neuve souhaite explorer les potentiels d’un atlas territorial qui se structure moins autour des descriptions d’un espace données, mais plutôt de ses potentielles transformations.
+
+Le parc national Gros-Morne a été fondé en 1970 et est un site du Patrimoine mondial de l’UNESCO. La région est pourtant habitée depuis 2500 av. J.-C., où les premiers peuples de la culture archaïque maritime habitaient le territoire. Un peuple de chasseurs-cueilleurs qui s’approvisionnent principalement à même le golfe du Saint-Laurent. Aujourd’hui, les 1805 km2 du parc national encerclent huit communautés. Et si sur la terre ferme se situe cette immense réserve naturelle dont les paysages spectaculaires sont reconnus mondialement, le golf du Saint-Laurent accueille quant à lui diverses activités extractives associées aux pêches industrielles, pétrole et gaz naturels. Cette région se présente comme un site d’exception pour documenter les interrelations complexes et changeantes entre différents écosystèmes et différentes communautés côtières.
+
 ## Cycle de conférences
+Afin d’aider les membres du groupe à élargir leurs compréhensions des enjeux du design urbain en lien avec les grands fleuves, la Chaire UNESCO en paysage urbain organise deux conférences sur le sujet. La participation de tous les membres du groupe est très fortement encouragée.
 
-Afin d’aider les membres du groupe à élargir leurs compréhension des enjeux du design urbain en lien avec les grands fleuves, la Chaire UNESCO en paysage urbain, en collaboration avec le Département d’urbanisme et d’architecture du paysage, organise un cycle de conférences sur le sujet. Les présentations d’invités canadiens et internationaux auront lieu en ligne, sur Zoom, les jeudi midi. La participation de tous les membres du groupes est très fortement encouragée.
 
-## Grille de correction des travaux
-L’évaluation se fait à titre individuelle sur la base des objectifs d’apprentissages définis plus haut et selon les barèmes suivants :
+# Pondération et grille de correction
+* Présentation des visions allégoriques (phase 1) : 10 %
+* Présentation des analyses territoriales (phase 2) : 10 %
+* Schémas, plans et coupes produits à la phase 4 : 5 %
+* Maquettes exploratoires produites à la phase 4 : 10 %
+* Présentation préliminaire (phase 4) : 15 %
+* Présentation finale devant jury (phase 5) : 40 %
+* Participation aux différentes activités collectives et aux explorations plastiques : 10 %
+L’évaluation se fait à titre individuelle sur la base des objectifs d’apprentissages définis plus haut et selon les barèmes suivants : 
 
 | | Sans amélioration | Avec amélioration | Avec grande amélioration |
 |-|-|-|-|
@@ -164,28 +182,13 @@ L’évaluation se fait à titre individuelle sur la base des objectifs d’appr
 | Faible | E |
 | Échec | F |
 
-
-## Logiciels utilisés (ou équivalents)
-* Word
-* Excel
-* Powerpoint
-* Illustrator
-* Photoshop
-* InDesign
-* ArcGIS
-* Autocad/Archicad
-* Rhino
-
-***
-
-\newpage
 # Information de l’Université de Montréal
 
 ## Exigences du cours AME 6415
 Aucune exigence spécifique
 
 ## Période allouée à l’appréciation de la prestation de l’enseignement
-Une période pour procéder à l’appréciation de l’atelier est prévue le 15 novembre à 13 h. Vous devriez recevoir un courriel ou un message sur StudiUm, dès le 15 novembre au matin, pour signifier l’ouverture de la prestation en ligne sur la plateforme Omnivox et vous informer de la procédure pour y accéder.
+Une période pour procéder à l’appréciation de l’atelier est prévue le 15 novembre à 13 h. Vous devriez recevoir un courriel ou un message sur StudiUm, dès le 15 novembre au matin, pour signifier l’ouverture de la prestation en ligne sur la plateforme Omnivox et vous informer de la procédure pour y accéder. 
 
 ## L’intégrité, la fraude et le plagiat
 Pour prévenir les conséquences du plagiat, l’Université met à la disposition des étudiants sur le site de l’information, des réflexions, des conseils pratiques et des références portant sur l’intégrité, la fraude et le plagiat : https://integrite.umontreal.ca/accueil/.
@@ -196,10 +199,53 @@ L’Université de Montréal offre des services de soutien aux étudiants en sit
 ## Le Carrefour Numérique
 Le Carrefour numérique est un espace de ressources en ligne pour tous les étudiants des programmes professionnels de la Faculté de l’aménagement. Conçu pour soutenir l’apprentissage et l’intégration des outils et des stratégies numériques dans la création, la représentation et la communication des projets dans les ateliers, le Carrefour est composé de capsules de formation et d’un environnement favorisant le développement des compétences numériques, la participation des étudiants et le partage de connaissances.
 
-![Bandeau Studium](Bandeau_Studium_1.pdf)
-
 Les capsules du carrefour numérique sont organisées [par logiciels](https://studiumfc.umontreal.ca/pluginfile.php/646375/mod_resource/content/11/index.html#$2) ou [par programmes et cours](https://studiumfc.umontreal.ca/pluginfile.php/646375/mod_resource/content/11/index.html#$1)
 
-## Consignes de sécurité liées à la pandémie de SARS-CoVID-19
+## Absence à une évaluation
+L’étudiant.e doit aviser de son absence à l’évaluation dans les plus brefs délais. Tout.e étudiant.e qui doit s’absenter à un examen ou à une évaluation doit obligatoirement compléter le formulaire prévu à cet effet dans le centre étudiant [CHE_Absence_Évaluation]. Il est à noter que la section 5 du formulaire constitue une obligation pour l’étudiant.e de prendre connaissance des règlements et notamment de contacter les enseignants responsables.
 
-Le port d’un EPI complet (masque de procédure + visière ou lunettes de protection) est obligatoire. Tout étudiant qui se présente en classe sans l’équipement requis pourrait se voir refuser l’accès à la salle de cours ou à l’espace d’atelier
+# Références/ bibliographie
+
+## Écologie
+* Graham, J., Blanchfield, C., Anderson, A., Carver, J., & Moore, J. (Eds.). (2016). Climates: Architecture and the Planetary Imaginary. Columbia Books on Architecture and the City.
+* Angelo, H., et Wachsmuth, D. (2015). Urbanizing Urban Political Ecology: A Critique of Methodological Cityism. International journal of urban and regional research, 39(1), 16–27.
+
+
+## Essais politiques
+* Latour, B. (2017). Où atterrir ? : comment s’orienter en politique. La découverte, Paris.
+
+## Géographie, études urbaines et architecture
+* Brenner, N. (2014). Implosions/explosions. Berlin : Jovis.
+* Brenner, N., et Schmid, C. (2015). Towards a new epistemology of the urban? Cityscape, 19 (2–3), 151–182
+* Breux, S., et Poitras, C. (s. d.). Saisir la ville matérielle et idéelle. Dans G. Cloutier, J.-P. Collin, et C. Poitras (éd.), Dix ans d’études urbaines au Québec : Bilan et perspectives d’avenir (p. 73-95). Québec : Presses de l’Université Laval
+* Cavalieri, C. et Vigano, P. (2020). The Horizontal Metropolis: A Radical Project. Park Books.
+* Corner, J., et Hirsch, A. B. (2014). The Landscape Imagination: Collected Essays of James Corner, 1990–2010. New York: Princeton Architectural Press.
+* Diener, R., Herzog, J., Meili, M., De Meuron, P., & Schmid, C. (2013). Switzerland–an Urban Portrait: Vol. 1: Introduction; Vol. 2: Borders, Communes–a Brief History of the Territory; Vol. 3: Materials. Walter de Gruyter.
+* Di Palma, V. (2014). Wasteland: A History. New Haven: Yale University Press.
+* Easterling, K. (2014). Extrastatecraft: The Power of Infrastructure Space. Verso Books.
+* Éthier, G. (2022). La ville analogique, repenser l’urbanité à l’ère numérique. Atelier 10, Montréal.
+* Gandy, M. (2014). The Fabric of Space: Water, Modernity, and the Urban Imagination. Cambridge : MIT Press.
+* Gandy, M. (2016). Unintentional landscapes. Landscape Research, 41(4), 433–440.
+* Ibañez, D., Hutton, J., & Moe, K. (Eds.). (2019). Wood urbanism: From the molecular to the territorial. Actar Publishers.
+* Ibañez, D., Lyster, C., Waldheim, C., & White, M. (Eds.). (2017). Third Coast Atlas: Prelude to a Plan. Actar D, Inc.
+* Jackson, J. B. (1984). Discovering the Vernacular Landscape. New Haven: Yale University Press.
+* Koolhaas, R. (2017). Études sur (ce qui s’appelait autrefois) la ville. Paris : Payot et Rivages.
+* Mattern, S. (2017). Code and Clay, Data and Dirt: Five Thousand Years of Urban Media. Minneapolis: University of Minnesota Press.
+* Mostafavi, M. (2017). Agonistic Urbanism. Dans M. Mostafavi (éd.), Ethics of the urban: The city and the spaces of the political (p. 9–16). Zürich: Lars Müller Publisher.
+* Picon, A. (2000). Anxious Landscapes: From the Ruin to Rust. Grey Room, 64–83. 
+* Venturini, G. (2019). Atlas of emerging practices: Being an architect in the 21st Century. Itinerant Office & New Generations.
+
+## Récits
+* Powers, R. (2018). The overstory: A novel. WW Norton & Company.
+* Wulf, A. (2015). The invention of nature: Alexander von Humboldt’s new world. Knopf.
+
+## Recherche visuelle et représentations graphiques
+* Didi-Huberman, G. (2022). L’image survivante : histoire de l’art et temps des fantômes selon Aby Warburg. Éditions de Minuit, Paris.
+* Ghosn, R., & Jazairy, E. H. (2018). Geostories: Another architecture for the environment. Actar.
+* Tufte, R. E. (2001). The visual display of quantitative information. Cheshire, Conn. : Graphics Press.
+* Waldheim, C., et Desimini, J. (2016). Cartographic Grounds: Projecting the Landscape Imaginary. San Francisco: Chronicle Books. 
+* Waldheim, C., et Hansen, A. (2014). Composite Landscapes: Photomontage and Landscape Architecture. Hatje Cantz Verlag GmbH et Company KG.
+* Yamaguchi, A. (2012). The Big Picture. KyoÌ„to-shi : Seigensha.
+
+##  Fleuve et golfe Saint-Laurent
+* Série d’articles disponible à https://theconversation.com/ca-fr/topics/fleuve-saint-laurent-116908
