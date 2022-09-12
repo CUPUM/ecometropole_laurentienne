@@ -7,3 +7,5 @@ Lors de la séance du 8 septembre, l’équipe d’encadrement introduira l’ex
 
 * **15 septembre** - Présentation des visions allégoriques et remise des documents de présentation 
 * **15 septembre** - Remise des maquettes exploratoires
+
+![image](https://github.com/CUPUM/ecometropole_laurentienne/blob/b9e69129a72a4a9ecdc5f4b718c091d1b7bb93b4/phase_1_vision_allegorique/koseki-drawing-ame6415_phase_1_setup-20220912.png)
