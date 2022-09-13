@@ -16,6 +16,6 @@
 |15h30|15h50|Présentation de GitHub|Matériel: [Diaporama]([url](https://github.com/CUPUM/ecometropole_laurentienne/blob/984351a97fb58174eff6740b82865b35c2d6422a/enseignement/20220908/koseki-diaporama-github_intro-20220907.pdf)); Demander aux membres de s’inscrire avec leur adressse umontreal|
 |15h50|16h|Pause||
 |16h|16h30|Activité 4: Chacun présente son image préférée en lien avec le design urbain||
-|16h30|16h50|Présentation de la phase 1 (Vision allégorique et display|Materiel: [Diaporama]([url](https://github.com/CUPUM/ecometropole_laurentienne/blob/984351a97fb58174eff6740b82865b35c2d6422a/enseignement/20220908/koseki-diaporama-ame6415_visions_allegoriques-20220908.pdf))|
+|16h30|16h50|Présentation de la phase 1 (Vision allégorique et display|Materiel: [Diaporama](https://github.com/CUPUM/ecometropole_laurentienne/blob/984351a97fb58174eff6740b82865b35c2d6422a/enseignement/20220908/koseki-diaporama-ame6415_visions_allegoriques-20220908.pdf)|
 |16h50|17h|Pause||
 |17h|17h30|Début de l’exercice|Ordi, portable, photocopies| 
