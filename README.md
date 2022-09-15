@@ -2,7 +2,7 @@
 # GitHub 
 L’un des objectifs fondamentaux de cet atelier est d’expérimenter, tant pour ce qui est des thématiques de recherche, des stratégies d'apprentissages, des projets imaginés ou encore des outils pédagogiques utilisés. De plus, à l'image des projets pilotés par la Chaire, nous avons la volonté de supporter un certain type d'initiatives : collective, transparente et démocratique.
 
-GitHub incarne ces désirs d'expérimentations et d'ouverture. Nous vous invitons à tester avec nous les potentiels de cet outil pour un atelier de design et recherche. Cette plateforme permet non seulement d’échanger et organiser notre travail, mais également de rassembler et construire des connaissances collectivement.
+GitHub incarne ces désirs d'expérimentations et d'ouverture. Nous vous invitons à tester avec nous les potentiels de cet outil pour un atelier de design et recherche. Cette plateforme permet non seulement d’échanger et organiser notre travail, mais également de rassembler et construire des connaissances collectivement. L'idée est également de se familiariser concrètement aux défis du numérique. En ce sens, GitHub force une « hygiène numérique » du travail collaboratif qui inclue l’organisation et la gestion des dossiers et fichiers mais aussi le choix des formats, la taille des fichiers, la nature des fichiers, etc.
 
 GitHub sera utilisé tout au long de l’atelier afin de structurer le travail à accomplir, déposer les livrables et rassembler différents savoirs et apprentissages.
 
@@ -13,11 +13,11 @@ Une séance de formation est prévue en début de session afin de vous familiari
 * Télécharger [ZETTLR](https://www.zettlr.com/) pour vous permettre d'écrire et mettre en page vos textes plus facilement.
 
 ## Système d’organisation du repository
-Simplement, chacune des phases de l'atelier possède un fichier (_file_) dans lequel certains documents ou données pertinentes y sont déposés pour vous accompagner dans votre travail.
+Simplement, chacune des phases de l'atelier possède un dossier (_file_) dans lequel certains documents ou données pertinentes y sont déposés pour vous accompagner dans votre travail.
 
 De plus, comme il s'agit d'un travail collectif, nous allons discuter entre nous les façons d'y ajouter le résultat de vos explorations ou recherches documentaires.
 
-Finalement, chaque fichier possède également un sous-fichier pour y déposer les livrables de l'atelier.
+Finalement, chaque dossier possède également un/ des sous-dossier(s) pour y déposer les livrables de l'atelier.
 
 ## Système de nomenclature des fichiers
 
