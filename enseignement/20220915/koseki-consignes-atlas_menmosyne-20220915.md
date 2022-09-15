@@ -1,6 +1,6 @@
 # Atlas Mnemosyne
 
-## Objectif de l’exercice
+## Objectif de l’exercice
 Cet exercice a pour objectif de produire une analyse inter-subjective des thématiques centrales abordées par les membres de l'atelier dans le cadre de la phase 1. 
 
 ## Comment procéder
