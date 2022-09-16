@@ -14,8 +14,17 @@ L'équipe d'enseignement a réservé ces vols, avec [Air Canada](https://www.air
 * Pour le retour : Air Canada (AC7719), départ de Deer Lake (YDF) à 6:00 et arrivé à Montréal (YUL) à 6:40.
 
 ### Hébergement
+Nous allons résider à l'établissement **Bonne Bay Marine Station** du 23 au 28 octobre. 
 
+Vous devez contacter Duncan McIlroy, dmcilroy@mun.ca, pour réserver votre chambre en occupation simple ou double avec l'un ou l'une de vos collègues. 
 
+Les tarifs sont de 82,50$ par nuit, par personne, pour les occupations doubles ou 165,00$ par nuit, par personne, pour les occupations simples.
 
 
 ### Financement
+
+####  DAI
+À venir.
+
+####  LOJIQ
+À Venir.
