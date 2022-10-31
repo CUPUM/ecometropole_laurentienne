@@ -18,7 +18,7 @@ Cette phase débute avec la sélection préliminaire de lieux potentiels d’int
 | Katherine | Urbain | Cape-aux-Meules, Iles-de-la-Madeleine |  
 | Ahmed | Urbain | Coeur touristique de Percé | Gaspésie |
 | Alexandra | Périurbain | Ingonish | Nouvelle-Écosse |
-| Sarah | Infra-urbain | Greenwich | Ile-du-Prince-Edouard |
+| Sarah | Infra-urbain | [to be defined] | Ile-d’Anticosti |
 | Maryanne | Infra-urbain | Corfu Island | Iles-de-la-Madeleine |
 | Flavia | Periurbain | Borden-Carleton | Ile-du-Prince-Edouard | 
 | Arianne | Urbain | Dalhousie | Nouveau-Brunswick |
