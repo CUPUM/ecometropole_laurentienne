@@ -8,4 +8,18 @@ Cette phase débute avec la sélection préliminaire de lieux potentiels d’int
 **Livrables**
 
 * **17 novembre** - Remise de 2 à 3 schémas, plans ou coupes
-* **1 décembre** - Présentation préliminaire et 2 à 3 maquettes exploratoires
+* **28 novembre** - Présentation préliminaire et 2 à 3 maquettes exploratoires
+
+## Choix des sites
+
+| Nom | Degré d’urbanité | Site | Région |
+|-----|------------------|------|--------|
+| Marie Antoinette | Infra-urbain | Petite-île-au-marteau | Basse-côte-nord |
+| Katherine | Urbain | Cape-aux-Meules, Iles-de-la-Madeleine |  
+| Ahmed | Urbain | Coeur touristique de Percé | Gaspésie |
+| Alexandra | Périurbain | Ingonish | Nouvelle-Écosse |
+| Sarah | Infra-urbain | Greenwich | Ile-du-Prince-Edouard |
+| Maryanne | Infra-urbain | Corfu Island | Iles-de-la-Madeleine |
+| Flavia | Periurbain | Borden-Carleton | Ile-du-Prince-Edouard | 
+| Arianne | Urbain | Dalhousie | Nouveau-Brunswick |
+| Chloé | Périurbain | Trout River | Terre-Neuve |
