@@ -1,0 +1,327 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+FullName:Helvetica Neue
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:80
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+FullName:Helvetica Neue Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:396
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+FullName:Helvetica Neue Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:1108
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Bold Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+FullName:Helvetica Neue Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:3228
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+FullName:Helvetica Neue Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:1472
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+FullName:Helvetica Neue Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:744
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+FullName:Helvetica Neue Light
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:2532
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+FullName:Helvetica Neue Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:2880
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Light Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+FullName:Helvetica Neue Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:3592
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+FullName:Helvetica Neue Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:3940
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+FullName:Helvetica Neue Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:4208
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+FullName:Helvetica Neue Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:4524
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+FullName:Helvetica Neue UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:1836
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue UltraLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+FullName:Helvetica Neue UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Flavia\ONEDRIVE LBU\OneDrive\Bureau\U\3\cozac-affiches-monolithes_et_graminees-20221223\Document fonts\HelveticaNeue.ttc
+TTCOffset:2168
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4472088
+FileModTime:1671149558
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue UltraLight Italic
+%EndFont
+
