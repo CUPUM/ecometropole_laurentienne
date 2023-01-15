@@ -1,0 +1,621 @@
+%!Adobe-FontList 1.18
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+FullName:Helvetica Neue
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:80
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+FullName:Helvetica Neue Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:396
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+FullName:Helvetica Neue Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:744
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+FullName:Helvetica Neue Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:1108
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Bold Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+FullName:Helvetica Neue Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:1472
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+FullName:Helvetica Neue UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:1836
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue UltraLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+FullName:Helvetica Neue UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:2168
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue UltraLight Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+FullName:Helvetica Neue Light
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:2532
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+FullName:Helvetica Neue Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:2880
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Light Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+FullName:Helvetica Neue Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:3228
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+FullName:Helvetica Neue Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:3592
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+FullName:Helvetica Neue Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:3940
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+FullName:Helvetica Neue Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:4208
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+FullName:Helvetica Neue Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\HelveticaNeue.ttc
+TTCOffset:4524
+DataFormat:sfntData
+hasSVG:no
+FileLength:4472088
+FileModTime:1671131560
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+FullName:Helvetica Neue
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-01.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:640980
+FileModTime:1671219920
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+FullName:Helvetica Neue Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-Bold-02.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:321332
+FileModTime:1671219920
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Bold
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+FullName:Helvetica Neue Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-BoldItalic-04.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:283832
+FileModTime:1671219920
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Bold Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+FullName:Helvetica Neue Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-CondensedBlack-10.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:153356
+FileModTime:1671219920
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Black
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+FullName:Helvetica Neue Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-CondensedBold-05.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:157772
+FileModTime:1671219920
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Condensed Bold
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+FullName:Helvetica Neue Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-Italic-03.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:290184
+FileModTime:1671219920
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+FullName:Helvetica Neue Light
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-Light-08.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:206708
+FileModTime:1671219920
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Light
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+FullName:Helvetica Neue Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-LightItalic-09.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:210556
+FileModTime:1671219920
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Neue Light Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+FullName:Helvetica Neue Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-Medium-11.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:255564
+FileModTime:1671219920
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:Medium Italic
+FullName:Helvetica Neue Medium Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-MediumItalic-12.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:177032
+FileModTime:1671219920
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+FullName:Helvetica Neue Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-Thin-13.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:269444
+FileModTime:1671219920
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:Thin Italic
+FullName:Helvetica Neue Thin Italic
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-ThinItalic-14.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:331460
+FileModTime:1671219920
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+FullName:Helvetica Neue UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-UltraLight-06.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:197724
+FileModTime:1671219920
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue UltraLight
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+FullName:Helvetica Neue UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\viensdesautels-presentation-renaturalisation_ancien_site_industriel_dalhousie-20221220\Document fonts\Fonts\HelveticaNeue-UltraLightItalic-07.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:197528
+FileModTime:1671219920
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue UltraLight Italic
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
