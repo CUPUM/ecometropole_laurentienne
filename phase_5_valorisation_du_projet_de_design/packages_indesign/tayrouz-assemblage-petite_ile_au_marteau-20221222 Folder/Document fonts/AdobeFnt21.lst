@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+FullName:Helvetica Neue Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Maria\OneDrive\Desktop\tayrouz-assemblage-petite_ile_au_marteau-20221222 Folder\Document fonts\HelveticaNeue-Bold-02.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:321332
+FileModTime:1671476051
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Bold
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+FullName:Helvetica Neue Light
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Maria\OneDrive\Desktop\tayrouz-assemblage-petite_ile_au_marteau-20221222 Folder\Document fonts\HelveticaNeue-Light-08.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:206708
+FileModTime:1671476090
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Light
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+FullName:Helvetica Neue Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Maria\OneDrive\Desktop\tayrouz-assemblage-petite_ile_au_marteau-20221222 Folder\Document fonts\HelveticaNeue-Medium-11.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:255564
+FileModTime:1671476109
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Medium
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:Thin
+FullName:Helvetica Neue Thin
+MenuName:Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Maria\OneDrive\Desktop\tayrouz-assemblage-petite_ile_au_marteau-20221222 Folder\Document fonts\HelveticaNeue-Thin-13.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:269444
+FileModTime:1671476121
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue Thin
+NameArray:0,Win,1,Helvetica Neue
+%EndFont
+
